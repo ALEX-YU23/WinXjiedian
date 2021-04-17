@@ -1,4 +1,4 @@
-﻿最新更新-20200330
+最新更新-20200330
 SSR节点订阅地址:
 https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
 
@@ -60,7 +60,6 @@ https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb
 https://youlianboshi.netlify.com/
 https://youtob4k.ml/link/2mkyb0EYIoqnLk31?mu=0
 
-
 V2ray免费节点服务器订阅地址：
 有的可能需要翻墙订阅
 http://v2ray.qlolp.ml
@@ -70,3 +69,5 @@ https://raw.githubusercontent.com/eycorsican/rule-sets/master/kitsunebi_sub
 https://rss.okss.top/link/S56sEysRbhMELkKk?mu=2
 https://rss.ssyes.top/s/q5fS4?ver=2
 https://youlianboshi.netlify.com/
+
+https://proxypool.ednovas.xyz/clash/proxies?c=JP
